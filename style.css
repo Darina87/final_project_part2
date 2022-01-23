@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+.link-header{
+    text-decoration: none;
+    color: blanchedalmond;
+
+}
+.link-nav{
+    text-decoration: none;
+    color: blanchedalmond;
+
+}
+a :hover{
+    color: cadetblue;
+}
+header{
+    background-color: cadetblue;
+}
+h1{
+    color: cadetblue;
+    text-align: center;
+}
+p{
+    background-color: blanchedalmond;
+    color: cadetblue;
+    padding: 10px;
+}
+img {
+    border: 3px solid blanchedalmond;
+
+}
+footer{
+    background-image: linear-gradient(blanchedalmond, cadetblue);
+    border: 2px solid cadetblue;
+    margin: 10px;
+}
+.social{
+    border: 2px solid cadetblue;
+    border-radius: 10px;
+    
+}
+a{
+    margin: 25px;
+}
+ul{
+    color:cadetblue;
+    background-color: blanchedalmond;
+}
+img{
+    margin: 10px;
+}
